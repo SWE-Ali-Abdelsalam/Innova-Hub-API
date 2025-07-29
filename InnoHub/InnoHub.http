@@ -1,0 +1,6 @@
+@InnoHub_HostAddress = http://localhost:5159
+
+GET {{InnoHub_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

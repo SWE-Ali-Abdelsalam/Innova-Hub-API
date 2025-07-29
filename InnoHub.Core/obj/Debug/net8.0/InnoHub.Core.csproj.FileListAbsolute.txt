@@ -1,0 +1,135 @@
+D:\final project\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.deps.json
+D:\final project\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.runtimeconfig.json
+D:\final project\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.dll
+D:\final project\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.pdb
+D:\final project\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.csproj.AssemblyReference.cache
+D:\final project\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\final project\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.AssemblyInfoInputs.cache
+D:\final project\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.AssemblyInfo.cs
+D:\final project\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.csproj.CoreCompileInputs.cache
+D:\final project\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.sourcelink.json
+D:\final project\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.dll
+D:\final project\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\refint\InnoHub.Core.dll
+D:\final project\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.pdb
+D:\final project\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.genruntimeconfig.cache
+D:\final project\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\ref\InnoHub.Core.dll
+C:\Users\lenovo\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.deps.json
+C:\Users\lenovo\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.runtimeconfig.json
+C:\Users\lenovo\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.dll
+C:\Users\lenovo\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.pdb
+C:\Users\lenovo\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.csproj.AssemblyReference.cache
+C:\Users\lenovo\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.AssemblyInfoInputs.cache
+C:\Users\lenovo\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.AssemblyInfo.cs
+C:\Users\lenovo\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.sourcelink.json
+C:\Users\lenovo\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.dll
+C:\Users\lenovo\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\refint\InnoHub.Core.dll
+C:\Users\lenovo\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.pdb
+C:\Users\lenovo\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.genruntimeconfig.cache
+C:\Users\lenovo\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\ref\InnoHub.Core.dll
+C:\Users\lenovo\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.deps.json
+C:\Users\lenovo\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.runtimeconfig.json
+C:\Users\lenovo\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.dll
+C:\Users\lenovo\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.pdb
+C:\Users\lenovo\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.csproj.AssemblyReference.cache
+C:\Users\lenovo\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.AssemblyInfoInputs.cache
+C:\Users\lenovo\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.AssemblyInfo.cs
+C:\Users\lenovo\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.sourcelink.json
+C:\Users\lenovo\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.dll
+C:\Users\lenovo\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\refint\InnoHub.Core.dll
+C:\Users\lenovo\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.pdb
+C:\Users\lenovo\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.genruntimeconfig.cache
+C:\Users\lenovo\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\ref\InnoHub.Core.dll
+C:\Users\alQsa\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.deps.json
+C:\Users\alQsa\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.runtimeconfig.json
+C:\Users\alQsa\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.dll
+C:\Users\alQsa\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.pdb
+C:\Users\alQsa\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.csproj.AssemblyReference.cache
+C:\Users\alQsa\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alQsa\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.AssemblyInfoInputs.cache
+C:\Users\alQsa\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.AssemblyInfo.cs
+C:\Users\alQsa\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.csproj.CoreCompileInputs.cache
+C:\Users\alQsa\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.sourcelink.json
+C:\Users\alQsa\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.dll
+C:\Users\alQsa\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\refint\InnoHub.Core.dll
+C:\Users\alQsa\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.pdb
+C:\Users\alQsa\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.genruntimeconfig.cache
+C:\Users\alQsa\Downloads\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\ref\InnoHub.Core.dll
+D:\Last version\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.deps.json
+D:\Last version\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.runtimeconfig.json
+D:\Last version\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.dll
+D:\Last version\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.pdb
+D:\Last version\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.csproj.AssemblyReference.cache
+D:\Last version\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Last version\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.AssemblyInfoInputs.cache
+D:\Last version\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.AssemblyInfo.cs
+D:\Last version\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.csproj.CoreCompileInputs.cache
+D:\Last version\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.sourcelink.json
+D:\Last version\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.dll
+D:\Last version\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\refint\InnoHub.Core.dll
+D:\Last version\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.pdb
+D:\Last version\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.genruntimeconfig.cache
+D:\Last version\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\ref\InnoHub.Core.dll
+D:\llllllaaaaaasssttt\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.deps.json
+D:\llllllaaaaaasssttt\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.runtimeconfig.json
+D:\llllllaaaaaasssttt\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.dll
+D:\llllllaaaaaasssttt\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.pdb
+D:\llllllaaaaaasssttt\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.csproj.AssemblyReference.cache
+D:\llllllaaaaaasssttt\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\llllllaaaaaasssttt\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.AssemblyInfoInputs.cache
+D:\llllllaaaaaasssttt\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.AssemblyInfo.cs
+D:\llllllaaaaaasssttt\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.csproj.CoreCompileInputs.cache
+D:\llllllaaaaaasssttt\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.sourcelink.json
+D:\llllllaaaaaasssttt\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.dll
+D:\llllllaaaaaasssttt\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\refint\InnoHub.Core.dll
+D:\llllllaaaaaasssttt\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.pdb
+D:\llllllaaaaaasssttt\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.genruntimeconfig.cache
+D:\llllllaaaaaasssttt\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\ref\InnoHub.Core.dll
+C:\Users\lenovo\Documents\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.deps.json
+C:\Users\lenovo\Documents\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.runtimeconfig.json
+C:\Users\lenovo\Documents\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.dll
+C:\Users\lenovo\Documents\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.pdb
+C:\Users\lenovo\Documents\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.csproj.AssemblyReference.cache
+C:\Users\lenovo\Documents\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Documents\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.AssemblyInfo.cs
+C:\Users\lenovo\Documents\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.sourcelink.json
+C:\Users\lenovo\Documents\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.dll
+C:\Users\lenovo\Documents\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\refint\InnoHub.Core.dll
+C:\Users\lenovo\Documents\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.pdb
+C:\Users\lenovo\Documents\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.genruntimeconfig.cache
+C:\Users\lenovo\Documents\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\InnoHub.Core\obj\Debug\net8.0\ref\InnoHub.Core.dll
+C:\Users\lenovo\Downloads\Innova-Hub-Server\Innova-Hub-Server\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.deps.json
+C:\Users\lenovo\Downloads\Innova-Hub-Server\Innova-Hub-Server\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.runtimeconfig.json
+C:\Users\lenovo\Downloads\Innova-Hub-Server\Innova-Hub-Server\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.dll
+C:\Users\lenovo\Downloads\Innova-Hub-Server\Innova-Hub-Server\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.pdb
+C:\Users\lenovo\Downloads\Innova-Hub-Server\Innova-Hub-Server\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.csproj.AssemblyReference.cache
+C:\Users\lenovo\Downloads\Innova-Hub-Server\Innova-Hub-Server\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Downloads\Innova-Hub-Server\Innova-Hub-Server\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.AssemblyInfoInputs.cache
+C:\Users\lenovo\Downloads\Innova-Hub-Server\Innova-Hub-Server\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.AssemblyInfo.cs
+C:\Users\lenovo\Downloads\Innova-Hub-Server\Innova-Hub-Server\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\Innova-Hub-Server\Innova-Hub-Server\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.sourcelink.json
+C:\Users\lenovo\Downloads\Innova-Hub-Server\Innova-Hub-Server\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.dll
+C:\Users\lenovo\Downloads\Innova-Hub-Server\Innova-Hub-Server\InnoHub.Core\obj\Debug\net8.0\refint\InnoHub.Core.dll
+C:\Users\lenovo\Downloads\Innova-Hub-Server\Innova-Hub-Server\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.pdb
+C:\Users\lenovo\Downloads\Innova-Hub-Server\Innova-Hub-Server\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.genruntimeconfig.cache
+C:\Users\lenovo\Downloads\Innova-Hub-Server\Innova-Hub-Server\InnoHub.Core\obj\Debug\net8.0\ref\InnoHub.Core.dll
+C:\lastafterdeals\lastafterdeals\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.deps.json
+C:\lastafterdeals\lastafterdeals\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.runtimeconfig.json
+C:\lastafterdeals\lastafterdeals\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.dll
+C:\lastafterdeals\lastafterdeals\InnoHub.Core\bin\Debug\net8.0\InnoHub.Core.pdb
+C:\lastafterdeals\lastafterdeals\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.csproj.AssemblyReference.cache
+C:\lastafterdeals\lastafterdeals\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\lastafterdeals\lastafterdeals\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.AssemblyInfoInputs.cache
+C:\lastafterdeals\lastafterdeals\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.AssemblyInfo.cs
+C:\lastafterdeals\lastafterdeals\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.csproj.CoreCompileInputs.cache
+C:\lastafterdeals\lastafterdeals\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.sourcelink.json
+C:\lastafterdeals\lastafterdeals\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.dll
+C:\lastafterdeals\lastafterdeals\InnoHub.Core\obj\Debug\net8.0\refint\InnoHub.Core.dll
+C:\lastafterdeals\lastafterdeals\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.pdb
+C:\lastafterdeals\lastafterdeals\InnoHub.Core\obj\Debug\net8.0\InnoHub.Core.genruntimeconfig.cache
+C:\lastafterdeals\lastafterdeals\InnoHub.Core\obj\Debug\net8.0\ref\InnoHub.Core.dll
