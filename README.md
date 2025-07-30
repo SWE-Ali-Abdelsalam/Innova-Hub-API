@@ -1,1 +1,2 @@
-# InnoHub
+# Innova-Hub
+A web-based ASP.NET Core platform enabling small business owners, investors, and customers to connect with each othe. This platform supports investment through Islamic finance principles. Features include multi-role authentication, automated investment management, e-commerce marketplace, digital contracts with signatures, Stripe payment processing, and comprehensive admin controls. Built using Clean Architecture with Repository pattern, Entity Framework, and modern security practices.
